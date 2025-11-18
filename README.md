@@ -8,9 +8,9 @@ Write JSON with comments directly in the request body editor (Only `application/
 Supports `//` single-line comments and `/* */` multi-line comments. Comments within strings are preserved
 
 ## How to Use
-Option 1
+### Option 1
 - Right Click on the request and choose "Send (Strip Comments)
-Option 2 (I recommend)
+### Option 2 (I recommend)
 - Hit Cmd K
 - Type comments or send and hit enter after choosing the correct command, it is usually at the top
 
