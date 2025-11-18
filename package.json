@@ -3,7 +3,7 @@
   "displayName": "JSON Comment Strip & Send",
   "description": "Send HTTP requests with JSON comments stripped",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "build": "yaakcli build"
   },
