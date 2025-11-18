@@ -1,0 +1,24 @@
+{
+  "name": "@govind/json-comment-strip-send",
+  "displayName": "JSON Comment Strip & Send",
+  "description": "Send HTTP requests with JSON comments stripped",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "yaakcli build"
+  },
+  "homepage": "https://github.com/Govind-S-B/yaak-plugin-json-comment-strip-send",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govind-S-B/yaak-plugin-json-comment-strip-send.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@yaakapp/cli": "^0.3.1",
+    "typescript": "^5.5.2",
+    "vitest": "^3.0.5"
+  },
+  "dependencies": {
+    "@yaakapp/api": "^0.5.3"
+  }
+}
