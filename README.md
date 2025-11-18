@@ -1,6 +1,6 @@
 # JSON Comment Strip & Send Plugin for Yaak
 
-![Plugin Screenshot](./image.png)
+<img width="2998" height="1858" alt="image" src="https://github.com/user-attachments/assets/3db818ab-37a2-4d1a-8b07-f609d1961b68" />
 
 
 ## What It does
